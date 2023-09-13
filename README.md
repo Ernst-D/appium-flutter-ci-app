@@ -1,5 +1,7 @@
 # flutter_counter
 
+[![Codemagic build status](https://api.codemagic.io/apps/64c2dcfafc4a081d8f112091/64c2dcfafc4a081d8f112090/status_badge.svg)](https://codemagic.io/apps/64c2dcfafc4a081d8f112091/64c2dcfafc4a081d8f112090/latest_build)
+
 A new Flutter project.
 
 ## Getting Started
